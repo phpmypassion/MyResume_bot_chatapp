@@ -27,7 +27,7 @@ MyResume-BOT depends on:
 
 
 ```
-python bot.py
+comming soon....
 ```
 
 output is:
