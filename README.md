@@ -24,10 +24,7 @@ MyResume-BOT depends on:
 - He provide you Chat Summary too when the chat ends.
 
 ## Demo link
-
-```
 http://myresumebot.webdabba.com/
-```
 
 chatboot sceenshot:
 
