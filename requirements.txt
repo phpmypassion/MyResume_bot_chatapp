@@ -1,5 +1,5 @@
 
-Django == 1.11.17
+Django == 1.11.28
 
 chatbotAI == 0.1.2.4
 
