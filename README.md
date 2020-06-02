@@ -26,7 +26,7 @@ MyResume-BOT depends on:
 ## Demo link
 http://myresumebot.webdabba.com/
 
-chatboot sceenshot:
+## chatboot sceenshot:
 
 ![output](output.PNG)
 
