@@ -25,12 +25,11 @@ MyResume-BOT depends on:
 
 ## Demo link
 
-
 ```
-comming soon....
+http://myresumebot.webdabba.com/
 ```
 
-output is:
+chatboot sceenshot:
 
 ![output](output.PNG)
 

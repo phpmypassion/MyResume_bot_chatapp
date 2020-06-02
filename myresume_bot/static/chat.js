@@ -18,7 +18,7 @@ $('#chat-form').on('submit', function(event){
 
             $('#msg-list').append('<div class="row msg_container base_receive">'
                                     +'<div class="col-md-2 col-xs-2 avatar">'
-                                        +' <img src="http://127.0.0.1:8090/static/img/profile-pic.png" class=" img-responsive ">'
+                                        +' <img src="http://myresumebot.webdabba.com/static/img/profile-pic.png" class=" img-responsive ">'
                                     +'</div>'
                                     +'<div class="col-md-10 col-xs-10">'
                                         +'<div class="messages msg_receive">'
